@@ -1,0 +1,55 @@
+*{
+    border: none;
+}
+body{
+    background-color: #E6E6E6;
+    margin: 0;
+}
+.principal{
+    background-color: white;
+
+}
+h1{
+    background-color: #C4C4C4;
+    color: #005677;
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+.Batman{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    background-color: #C4C4C4;
+    color: #005677;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+#años{
+    font-weight: bold;
+}
+footer{
+    background-color: #005677;
+    background-size: contain;
+    color: white;
+    min-height: 100%;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+
+}
+span{
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Arial, Helvetica, serif
+}
+.final{
+    max-width: 100%;
+    max-height: 100%;
+ 
+}
